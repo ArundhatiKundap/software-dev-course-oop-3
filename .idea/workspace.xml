@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e654d077-1dfc-4957-ac19-1f87429c9084" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LibraryItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e654d077-1dfc-4957-ac19-1f87429c9084" name="Changes" comment="Changes made according to instructions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +32,9 @@
     &quot;accountId&quot;: &quot;24d9d03a-3adf-4ab0-939e-99c7b9d2bff5&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -160,6 +156,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738943626804</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes made according to instructions">
+      <option name="closed" value="true" />
+      <created>1749644942148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749644942148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes made according to instructions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes made according to instructions" />
   </component>
 </project>
